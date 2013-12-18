@@ -35,9 +35,9 @@ public class DisplayThing extends JFrame {
 		contentPane.setLayout(new BorderLayout(0, 0));
 		setContentPane(contentPane);
 		
-		JLabel lblEvaSmells = new JLabel("Eva Smells");
-		lblEvaSmells.setFont(new Font("Tahoma", Font.PLAIN, 55));
-		contentPane.add(lblEvaSmells, BorderLayout.WEST);
+		JLabel lblGeorgeIsAButt = new JLabel("George is a butt");
+		lblGeorgeIsAButt.setFont(new Font("Tahoma", Font.PLAIN, 55));
+		contentPane.add(lblGeorgeIsAButt, BorderLayout.WEST);
 	}
 
 }
